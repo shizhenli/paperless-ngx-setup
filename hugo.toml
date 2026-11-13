@@ -1,13 +1,33 @@
 baseURL = "https://paperless-ngx-setup.pages.dev/"
 languageCode = "en-us"
-title = "Paperless-ngx Document Archive"
+title = "Paperless-ngx Setup Help"
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "term"]
 [params]
-template_version = "v1.1.0"
-description = "Set up Paperless-ngx for a small personal archive: scan folder, OCR, tags, and restore checks."
-category = "HomeLab"
 source = "paperless-ngx-setup"
+description = "Remote Paperless-ngx help for documents stuck in consume, OCR failures, and search verification."
 email = "hello@handytasklab.com"
+fallback_email_subject = "Paperless-ngx setup help"
+fallback_email_fields = ["Paperless-ngx version/install", "Consume path and permissions", "Document type/language", "Task or OCR error"]
+og_image = "images/social.jpg"
+footer_line = "Remote help for one device at a time."
+latest_kicker = "FROM THE BLOG"
+latest_title = "Paperless-ngx Setup Help Guides"
+theme_bg = "#F3F1E9"
+theme_surface = "#F8F7F3"
+theme_card = "#FFFFFF"
+theme_ink = "#182018"
+theme_muted = "#5D655F"
+theme_accent = "#28614F"
+theme_accent_ink = "#FFFFFF"
+theme_deep = "#242423"
+theme_deep_ink = "#FFFFFF"
+theme_header_ink = "#182018"
+theme_line = "#D4D5D0"
+theme_link = "#193C31"
+theme_scrim = "rgba(8,12,16,0.86)"
+theme_light = true
+hero_desktop_hd_width = 1376
+hero_mobile_hd_width = 768
 [markup.goldmark.renderer]
 unsafe = true
