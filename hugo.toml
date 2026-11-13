@@ -1,7 +1,7 @@
 baseURL = "https://paperless-ngx-setup.pages.dev/"
 languageCode = "en-us"
 title = "Paperless-ngx Setup Help"
-enableRobotsTXT = true
+enableRobotsTXT = false
 disableKinds = ["taxonomy", "term"]
 [params]
 source = "paperless-ngx-setup"
