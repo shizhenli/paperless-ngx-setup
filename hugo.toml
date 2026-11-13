@@ -2,7 +2,9 @@ baseURL = "https://paperless-ngx-setup.pages.dev/"
 languageCode = "en-us"
 title = "Paperless-ngx Document Archive"
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 [params]
+template_version = "v1.1.0"
 description = "Set up Paperless-ngx for a small personal archive: scan folder, OCR, tags, and restore checks."
 category = "HomeLab"
 source = "paperless-ngx-setup"
