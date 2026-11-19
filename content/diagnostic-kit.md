@@ -3,7 +3,7 @@ title: "Paperless-ngx Setup Diagnostic Kit"
 description: "A three-route field guide for a consume queue that sticks, OCR failures, and container restarts"
 layout: "product"
 draft: false
-price: ""
+price: "19.00"
 preview_pdf: "/downloads/paperless-ngx-setup-Free-Preview.pdf"
 ---
 
@@ -16,7 +16,7 @@ preview_pdf: "/downloads/paperless-ngx-setup-Free-Preview.pdf"
 </div>
 
 <div class="product-buybox">
-  <div><p class="product-kicker">What you get</p><p class="product-price">Price confirmed before launch</p><p class="small">The checkout button opens only after the price and payment product are confirmed.</p></div>
+  <div><p class="product-kicker">What you get</p><p class="product-price">USD 19.00</p><p class="small">One-time payment. Instant digital download. The checkout button opens after the Live product is confirmed.</p></div>
   <div class="product-cta-disabled" aria-disabled="true">Checkout opens after price confirmation</div>
 </div>
 
